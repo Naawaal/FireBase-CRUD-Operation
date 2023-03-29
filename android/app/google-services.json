@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103099217038",
+    "project_id": "fb-crud-operation",
+    "storage_bucket": "fb-crud-operation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103099217038:android:5cedf3f2fd3d8f0f2485df",
+        "android_client_info": {
+          "package_name": "com.example.fb_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103099217038-97eijhh0rmkt4ljvrnk2dfs2lkml6sts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCRSRGsRrcGVsyblFEEQpq2PpOJpwOSH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103099217038-97eijhh0rmkt4ljvrnk2dfs2lkml6sts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
